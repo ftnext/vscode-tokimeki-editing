@@ -10,17 +10,10 @@
     "Other"
   ],
   "activationEvents": [
-    "onCommand:tokimeki-editing.helloWorld",
     "onLanguage:markdown"
   ],
   "main": "./out/extension.js",
   "contributes": {
-    "commands": [
-      {
-        "command": "tokimeki-editing.helloWorld",
-        "title": "Hello World"
-      }
-    ]
   },
   "scripts": {
     "vscode:prepublish": "npm run compile",
