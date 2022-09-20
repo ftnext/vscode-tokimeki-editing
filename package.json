@@ -3,6 +3,11 @@
   "displayName": "TOKIMEKI Editing🌈",
   "description": "",
   "version": "0.0.1",
+  "publisher": "everlasting-diary",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ftnext/vscode-tokimeki-editing.git"
+  },
   "engines": {
     "vscode": "^1.71.0"
   },
