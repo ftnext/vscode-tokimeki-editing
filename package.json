@@ -1,9 +1,19 @@
 {
   "name": "tokimeki-editing",
   "displayName": "TOKIMEKI Editing🌈",
-  "description": "",
+  "description": "Insert emojis representing them in Markdown",
   "version": "0.0.2",
   "publisher": "everlasting-diary",
+  "keywords": [
+    "emoji",
+    "lovelive",
+    "nijigaku",
+    "虹ヶ咲学園スクールアイドル同好会"
+  ],
+  "galleryBanner": {
+    "color": "#1D1D1D",
+    "theme": "dark"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/ftnext/vscode-tokimeki-editing.git"
